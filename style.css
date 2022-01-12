@@ -1,0 +1,21 @@
+ul{
+    display: inline-flex;
+    list-style-type: none;
+   float: right;  
+   font-size: large; 
+}
+h3{
+    display:inline-flex;
+}
+li{
+    padding:10px;
+}
+nav{
+    background-color: aliceblue;
+   
+   
+}
+h2{
+    text-align: center;
+    
+}
