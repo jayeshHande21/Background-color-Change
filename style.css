@@ -1,0 +1,17 @@
+body{
+    /* background-color: yellow; */
+}
+h1{
+    margin: auto;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 200px;
+}
+#i{
+   font-size: large;
+   background-color: red;
+   color: white;
+   border-radius: 0.5rem;
+   width:fit-content;
+
+}
